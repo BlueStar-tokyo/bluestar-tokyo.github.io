@@ -76102,7 +76102,7 @@ $1(a){var s=document.createElement("iframe"),r=s.style
 r.height=this.b
 r=s.style
 r.width=this.c
-s.srcdoc='    <!DOCTYPE html>  \n    <html>\n    <head>\n    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7637358580367405"\n     crossorigin="anonymous"></script>\n    <body style="background-color:powderblue;">\n    <h1>\u5e83\u544a\u67a0</h1>\n    </body>  \n    </head>\n    </html>\n    '
+s.srcdoc='    <!DOCTYPE html>  \n    <html>\n    <head>\n    <body style="background-color:powderblue;">\n    <h1>\u5e83\u544a\u67a0</h1>\n    </body>  \n    </head>\n    </html>\n    '
 r=s.style
 r.border="none"
 return s},
